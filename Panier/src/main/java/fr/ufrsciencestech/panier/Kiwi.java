@@ -4,7 +4,7 @@ package fr.ufrsciencestech.panier;
  *
  * @author roudet
  */
-public class Kiwi {
+public class Kiwi implements Fruit{
     private double prix;
     private String origine;
 	
